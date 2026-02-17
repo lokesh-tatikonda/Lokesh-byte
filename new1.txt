@@ -1,5 +1,5 @@
 jsdjhh<<<<<<< HEAD
 hi ok all
 =======
-hi okay all
+hoi hi okay all
 >>>>>>> qa
